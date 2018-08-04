@@ -32,7 +32,7 @@ pytest
 pytest -v
 ```
 
-# Checking project test coverage
+### Checking project test coverage
 First install the package
 ```
 pip install coverage
